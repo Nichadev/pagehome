@@ -1,0 +1,13 @@
+.btn-blue{
+    color: aliceblue;
+    background-color: cornflowerblue;
+    padding: 20px;
+    margin-left: 15px;
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+    transition: 0.3s;
+}
+
+.btn-blue:hover{
+    font-size: 20px;
+}
